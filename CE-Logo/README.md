@@ -1,4 +1,4 @@
-###CE-Logo
+# CE-Logo
 
 From [CE marking](https://ec.europa.eu/growth/single-market/ce-marking_en):
 
